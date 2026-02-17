@@ -27,7 +27,6 @@ One frame:
 
 -   Computes homography between two camera views using manually selected
     corresponding points
--   Uses RANSAC for robustness
 -   Warps images into a shared coordinate system
 
 ### 2. Bird's Eye View (BEV) Transformation
